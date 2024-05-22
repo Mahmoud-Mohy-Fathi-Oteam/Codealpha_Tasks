@@ -13,7 +13,7 @@ This project includes code for collecting a dataset of faces, training a classif
 
 1. Clone the repository:
 
-git clone https://github.com/MohamedHamdy549/Face-recognition.git
+git clone https://github.com/Mahmoud-Mohy-Fathi-Oteam/codealpha_tasks/tree/master/Face%20Recognition
 
 2. Install the required dependencies:
 
